@@ -4,11 +4,11 @@ Aplikasi ini merupakan aplikasi sederhana yang dibuat dengan menggunakan bahasa 
 
 Fitur yang terdapat dalam aplikasi ini adalah:
 
-Menghitung gaji karyawan perjam: Pengguna dapat memasukkan jumlah jam kerja dan tarif gaji perjam karyawan, lalu aplikasi akan menghitung gaji karyawan tersebut.
+1. Menghitung gaji karyawan perjam: Pengguna dapat memasukkan jumlah jam kerja dan tarif gaji perjam karyawan, lalu aplikasi akan menghitung gaji karyawan tersebut.
 
-Fitur tambahan lembur: Pengguna dapat memasukkan jumlah jam lembur yang dilakukan oleh karyawan, lalu aplikasi akan menambahkan gaji lembur ke gaji karyawan yang telah dihitung sebelumnya.
+2. Fitur tambahan lembur: Pengguna dapat memasukkan jumlah jam lembur yang dilakukan oleh karyawan, lalu aplikasi akan menambahkan gaji lembur ke gaji karyawan yang telah dihitung sebelumnya.
 
-Fitur tambahan pajak: Pengguna dapat memasukkan besarnya pajak yang harus dibayarkan oleh karyawan, lalu aplikasi akan mengurangi pajak tersebut dari gaji karyawan yang telah dihitung sebelumnya.
+3. Fitur tambahan pajak: Pengguna dapat memasukkan besarnya pajak yang harus dibayarkan oleh karyawan, lalu aplikasi akan mengurangi pajak tersebut dari gaji karyawan yang telah dihitung sebelumnya.
 
 Cara Menggunakan Aplikasi
 
